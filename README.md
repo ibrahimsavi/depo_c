@@ -1,2 +1,2 @@
 # depo_c
-C# öğrenirken yapılan çalışmalar.
+Hello World!
